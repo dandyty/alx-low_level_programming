@@ -3,12 +3,9 @@
 
 
 /**
- *
  *  * main - prints the size of various types
- *
  *   * Return: 0 Always (Success)
- *
- *    */
+ */
 
 int main(void)
 
