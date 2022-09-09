@@ -1,4 +1,4 @@
-nclude <stdlib.h>
+#include <stdlib.h>
 
 #include <time.h>
 
@@ -6,12 +6,13 @@ nclude <stdlib.h>
 
 
 
+/**
  *
  *  *main - Entry point
  *
  *   *Return: Always 0 (Success)
  *
- *
+ */
 
 
 
